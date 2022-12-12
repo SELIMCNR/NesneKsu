@@ -1,0 +1,13 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\bin\Debug\Ders05.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\bin\Debug\Ders05.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\bin\Debug\Ders05.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.Form2.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.Form3.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\Ders-05\Ders05\Ders05\obj\Debug\Ders05.pdb

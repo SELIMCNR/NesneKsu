@@ -1,0 +1,21 @@
+C:\Users\User8\Desktop\ders7\ders7\ders7\bin\Debug\ders7.exe.config
+C:\Users\User8\Desktop\ders7\ders7\ders7\bin\Debug\ders7.exe
+C:\Users\User8\Desktop\ders7\ders7\ders7\bin\Debug\ders7.pdb
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.csproj.AssemblyReference.cache
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.Form1.resources
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.Properties.Resources.resources
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.csproj.GenerateResource.cache
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.csproj.CoreCompileInputs.cache
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.exe
+C:\Users\User8\Desktop\ders7\ders7\ders7\obj\Debug\ders7.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\bin\Debug\ders7.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\bin\Debug\ders7.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\bin\Debug\ders7.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\nesne-ksü\VİZE\ders7\ders7\ders7\obj\Debug\ders7.pdb
